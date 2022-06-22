@@ -18,3 +18,5 @@ Decided this is a viable architecture
 ### Status
 
 Decided. Being implemented
+
+## Details
